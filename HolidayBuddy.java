@@ -7,7 +7,7 @@ package ac.in.kletech;
 		static int count;
 		double packageAmt;
 		
-		Customer c = new Customer("Sindhu", "Hubli", 989777689l, "Female");
+		Customer c = new Customer("Sumeet", "Hubli", 989777689l, "Female");
 		Scanner sc = new Scanner(System.in);
 		
 		void display(){
